@@ -1,2 +1,5 @@
 # my_demo
-This is my Git reposit
+This is my Git repository.
+<br>
+Author : Arman Khan
+
